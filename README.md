@@ -38,17 +38,19 @@ Tomato Trot is an ongoing project.
 
 will have more updates eventually
 
-## 👤 Credits
+##  Credits
 
 **Created by:** duckballs483-cell
 
 Game: Tomato Trot
 
-## 📜 License
+##  License
 
 © 2026 duckballs483-cell. All rights reserved.
 
 Please do not redistribute or commercially use the game's assets or source files without permission.
+
+link on itch.io: https://satche1321313213.itch.io/haven-game-thing
 
 ---
 
