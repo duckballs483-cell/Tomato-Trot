@@ -51,7 +51,8 @@ Game: Tomato Trot
 
 Please do not redistribute or commercially use the game's assets or source files without permission.
 
-link on itch.io: https://satche1321313213.itch.io/haven-game-thing
+link on itch.io: https://satche1321313213.itch.io/tomato-trot
+
 
 ---
 
