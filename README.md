@@ -1,5 +1,5 @@
 Haven Game Thing
-note this is made by someone who wants to organise haven and i made it here because my godot kept crashing lol(p.s ik how to use godot kinda )
+This is a  Fun 2d platformer
 
 A game made with Construct 3
 
